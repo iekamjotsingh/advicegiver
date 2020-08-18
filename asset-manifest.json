@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/advicegiver/static/css/main.fde3b8a2.chunk.css",
-    "main.js": "/advicegiver/static/js/main.795e462e.chunk.js",
-    "main.js.map": "/advicegiver/static/js/main.795e462e.chunk.js.map",
+    "main.css": "/advicegiver/static/css/main.83f5e9a5.chunk.css",
+    "main.js": "/advicegiver/static/js/main.7a10a75f.chunk.js",
+    "main.js.map": "/advicegiver/static/js/main.7a10a75f.chunk.js.map",
     "runtime-main.js": "/advicegiver/static/js/runtime-main.7838d644.js",
     "runtime-main.js.map": "/advicegiver/static/js/runtime-main.7838d644.js.map",
     "static/js/2.8466c36c.chunk.js": "/advicegiver/static/js/2.8466c36c.chunk.js",
     "static/js/2.8466c36c.chunk.js.map": "/advicegiver/static/js/2.8466c36c.chunk.js.map",
     "index.html": "/advicegiver/index.html",
-    "precache-manifest.a1ba944f4b15894508ab74289997cc98.js": "/advicegiver/precache-manifest.a1ba944f4b15894508ab74289997cc98.js",
+    "precache-manifest.c9920d5b2e71aab798d50457878f664f.js": "/advicegiver/precache-manifest.c9920d5b2e71aab798d50457878f664f.js",
     "service-worker.js": "/advicegiver/service-worker.js",
-    "static/css/main.fde3b8a2.chunk.css.map": "/advicegiver/static/css/main.fde3b8a2.chunk.css.map",
+    "static/css/main.83f5e9a5.chunk.css.map": "/advicegiver/static/css/main.83f5e9a5.chunk.css.map",
     "static/js/2.8466c36c.chunk.js.LICENSE.txt": "/advicegiver/static/js/2.8466c36c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/advicegiver/static/media/bg.529efd89.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7838d644.js",
     "static/js/2.8466c36c.chunk.js",
-    "static/css/main.fde3b8a2.chunk.css",
-    "static/js/main.795e462e.chunk.js"
+    "static/css/main.83f5e9a5.chunk.css",
+    "static/js/main.7a10a75f.chunk.js"
   ]
 }
