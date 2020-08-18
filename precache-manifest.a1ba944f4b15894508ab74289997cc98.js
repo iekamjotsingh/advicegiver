@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "664942ee27aced9eeaa4ce6b90a9e65a",
+    "revision": "aef6df3d1863a2ebcf9506a2863f33a4",
     "url": "/advicegiver/index.html"
   },
   {
-    "revision": "360052a0fa46d2539086",
-    "url": "/advicegiver/static/css/main.ea2ae0c3.chunk.css"
+    "revision": "9b9f333d63f7b2b1b8f0",
+    "url": "/advicegiver/static/css/main.fde3b8a2.chunk.css"
   },
   {
     "revision": "0818a435cae1f52db53f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/advicegiver/static/js/2.8466c36c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "360052a0fa46d2539086",
+    "revision": "9b9f333d63f7b2b1b8f0",
     "url": "/advicegiver/static/js/main.795e462e.chunk.js"
   },
   {
